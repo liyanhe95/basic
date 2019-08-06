@@ -1,0 +1,14 @@
+test_abs_two (basic.python.class_05.test_mathmethod_02.TestA_b_s) ... ok
+test_abs_two__nagetive (basic.python.class_05.test_mathmethod_02.TestA_b_s) ... ok
+test_abs_two_positive_nagetive (basic.python.class_05.test_mathmethod_02.TestA_b_s) ... ok
+test_add_positive_nagetive (basic.python.class_05.test_mathmethod_02.TestAdd) ... ok
+test_add_two_nagetive (basic.python.class_05.test_mathmethod_02.TestAdd) ... ok
+test_add_two_zero (basic.python.class_05.test_mathmethod_02.TestAdd) ... ok
+test_sub_two_nagetive (basic.python.class_05.test_mathmethod_02.TestSub) ... ok
+test_sub_two_positive_nagetive (basic.python.class_05.test_mathmethod_02.TestSub) ... ok
+test_sub_two_zheng (basic.python.class_05.test_mathmethod_02.TestSub) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.001s
+
+OK

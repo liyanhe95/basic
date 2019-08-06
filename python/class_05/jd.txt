@@ -1,0 +1,6 @@
+test_count_sucess (basic.python.class_05.test_jd.TestJd) ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 11.626s
+
+OK
